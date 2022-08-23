@@ -9,8 +9,9 @@ metro=int(input("\nQuantos metros deseja converter para centimetro? "))
 centimetro=(metro * 100)
 print(centimetro , "cm é a quantidade de centimetros que temos em", metro , "metro(s)")
 
--------------------------------//---------------------------------------------
+
 Shell (exemplo):
+
 Transformando metros em centimetros
 
 Quantos metros deseja converter para centimetro? 1
